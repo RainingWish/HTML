@@ -1,0 +1,66 @@
+HTML Documents
+
+All HTML documents must start with a document type declaration: <!DOCTYPE html>.
+
+The HTML document itself begins with <html> and ends with </html>.
+
+The visible part of the HTML document is between <body> and </body>.
+
+REF:EX1
+
+
+
+HTML Headings
+
+HTML headings are defined with the <h1> to <h6> tags.
+
+<h1> defines the most important heading. <h6> defines the least important heading
+
+<h1> is largest <h6> is smallest
+
+REF:EX2
+
+
+HTML Paragraphs
+
+HTML paragraphs are defined with the <p> tag
+
+REF: EX2
+
+
+
+HTML Links
+
+HTML links are defined with the <a> tag
+
+The link's destination is specified in the href attribute
+
+REF: EX2
+
+
+HTML Images
+
+HTML images are defined with the <img> tag.
+
+The source file (src), alternative text (alt), width, and height are provided as attributes
+
+REF:EX2
+
+
+
+HTML Buttons
+
+HTML buttons are defined with the <button> tag
+
+REF:EX2
+
+
+
+
+HTML Lists
+
+HTML lists are defined with the <ul> (unordered/bullet list) or 
+the <ol> (ordered/numbered list) tag, followed by <li> tags (list items)
+
+REF: EX2
+

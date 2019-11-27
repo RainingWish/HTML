@@ -1,0 +1,15 @@
+Some Other Useful HTML Character Entities
+Result		Description				Entity Name		Entity Number
+		non-breaking space			&nbsp;			&#160;
+<		less than				&lt;			&#60;
+>		greater than				&gt;			&#62;
+&		ampersand				&amp;			&#38;
+"		double quotation mark			&quot;			&#34;
+'		single quotation mark (apostrophe)	&apos;			&#39;
+бщ		cent					&cent;			&#162;
+бъ		pound					&pound;			&#163;
+гд		yen					&yen;			&#165;
+А		euro					&euro;			&#8364;
+?		copyright				&copy;			&#169;
+?		registered trademark			&reg;			&#174;
+Note: Entity names are case sensitive.

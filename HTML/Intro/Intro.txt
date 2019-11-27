@@ -1,0 +1,32 @@
+HTML is the standard markup language for creating Web pages.
+
+HTML stands for Hyper Text Markup Language
+HTML describes the structure of a Web page
+HTML consists of a series of elements
+HTML elements tell the browser how to display the content
+HTML elements are represented by tags
+HTML tags label pieces of content such as "heading", "paragraph", "table", and so on
+Browsers do not display the HTML tags, but use them to render the content of the page
+
+
+
+
+EX1 Explained:
+The <!DOCTYPE html> declaration defines this document to be HTML5
+The <html> element is the root element of an HTML page
+The <head> element contains meta information about the document
+The <title> element specifies a title for the document
+The <body> element contains the visible page content
+The <h1> element defines a large heading
+The <p> element defines a paragraph
+
+
+
+HTML Tags:
+
+<tagname>content goes here...</tagname>
+
+HTML tags normally come in pairs like <p> and </p>
+The first tag in a pair is the start tag, the second tag is the end tag
+
+

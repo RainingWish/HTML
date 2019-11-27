@@ -1,0 +1,12 @@
+HTML Elements
+
+An HTML element usually consists of a start tag and an end tag, with the content inserted in between
+	
+Start tag		Element content		End tag
+<h1>			My First Heading	</h1>
+<p>			My first paragraph.	</p>
+<br>
+
+<h1> is for heading
+<p> is for paragraph
+<br> is Enter in document //next line

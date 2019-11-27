@@ -1,0 +1,88 @@
+HTML Attributes
+All HTML elements can have attributes
+Attributes provide additional information about an element
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value"
+
+
+The href Attribute
+
+HTML links are defined with the <a> tag. The link address is specified in the href attribute
+
+REF: EX2
+
+
+
+The src Attribute
+
+HTML images are defined with the <img> tag.
+
+The filename of the image source is specified in the src attribute
+
+REF: EX2
+
+
+The width and height Attributes
+
+HTML images also have width and height attributes, which specifies the width and height of the image
+
+REF: EX2
+
+Note:The width and height are specified in pixels by default; so width="500" means 500 pixels wide
+
+
+The alt Attribute
+
+The alt attribute specifies an alternative text to be used, if an image cannot be displayed.
+
+The value of the alt attribute can be read by screen readers. 
+This way, someone "listening" to the webpage, e.g. a vision impaired person, can "hear" the element.
+
+REF:EX3
+
+Note: The alt attribute is also useful if the image cannot be displayed
+
+
+The style Attribute
+
+The style attribute is used to specify the styling of an element, like color, font, size etc
+
+REF:EX3
+
+
+The lang Attribute
+
+The language of the document can be declared in the <html> tag.
+
+The language is declared with the lang attribute.
+
+Declaring a language is important for accessibility applications (screen readers) and search engines
+
+REF: EX3
+
+
+The title Attribute
+
+Here, a title attribute is added to the <p> element.
+The value of the title attribute will be displayed as a tooltip when you mouse over the paragraph
+
+REF: EX3
+
+
+Suggest in using attributes:
+1.Use Lowercase Attributes
+2.Quote Attribute Values
+
+
+HTML Attributes
+Below is an alphabetical list of some attributes often used in HTML
+
+Attribute					Description
+alt		Specifies an alternative text for an image, when the image cannot be displayed
+disabled	Specifies that an input element should be disabled
+href		Specifies the URL (web address) for a link
+id		Specifies a unique id for an element
+src		Specifies the URL (web address) for an image
+style		Specifies an inline CSS style for an element
+title		Specifies extra information about an element (displayed as a tool tip)
+
